@@ -1,6 +1,6 @@
 # Password Generator
 
-![App Screenshot] (https://github.com/niladri-1/Password-Generater/blob/main/Demo.png)
+![App Screenshot](https://github.com/niladri-1/Password-Generater/blob/main/Demo.png)
 
 ## Description
 
